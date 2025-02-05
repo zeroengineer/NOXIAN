@@ -1,1 +1,1 @@
-# ARES-Artificial-Reality-Examination-and-Scrutiny
+#NOXIAN - AI GENERATED IMAGE DETECTION WEB APPLICATION
